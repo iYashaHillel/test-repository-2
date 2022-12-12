@@ -39,3 +39,4 @@ cd C:/System/Users/Petya/Desktop/MyProject1 - absolute path
 7) git pull - retrieve commits from remote repository
 """
 
+
